@@ -17,6 +17,8 @@ section{
 p{
     width: 40rem;
     position: relative;
+    border-bottom: 1px solid rgb(5, 5, 5);
+  
 }
 .section-todo{
     color: black;
